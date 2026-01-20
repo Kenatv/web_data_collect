@@ -86,4 +86,4 @@ As someone who had a lot of knowledge in this side of the hobby, I didn't really
 
 ## Download Data
 - [Download Beginner Fish Results (CSV)](assets/begginerfish.csv)
-- [Download Monster Fish Results (CSV)](assets/monsterfish.csv)
+- [Download Monster Fish Results (CSV)](assets/mosterfish.csv)
