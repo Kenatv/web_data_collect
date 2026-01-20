@@ -83,3 +83,7 @@ I wish to have an engagement matrix where I can see whether people acutally watc
 ## Expectation VS Reality
 
 As someone who had a lot of knowledge in this side of the hobby, I didn't really have high expectations for both of these since I generally know what it would be like. One thing that went over my head however, is how the beginner section generally doesn't talk about salt water fish which is a lot harder to keep. There is also a topic about how monster fish can sometimes be regarded with fishing for large fish in the rivers. Which wasn't what I intended to research about. 
+
+## Download Data
+- [Download Beginner Fish Results (CSV)](assets/begginerfish.csv)
+- [Download Monster Fish Results (CSV)](assets/monsterfish.csv)
